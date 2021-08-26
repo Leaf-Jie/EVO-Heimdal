@@ -1,0 +1,7 @@
+%YAML:1.0
+---
+# 相机参数
+CameraConfiguration:
+   gainValue: 1.5000000000000000e+00
+   exposureValue: 5000
+   gammaValue: 5.9999999999999998e-01
